@@ -1,3 +1,4 @@
+
 //the program for finding the quadratic roots of an equation
 
 #include<stdio.h>
@@ -25,3 +26,6 @@ main(){
     printf("The roots aere imajinary");
 
 }
+
+
+
